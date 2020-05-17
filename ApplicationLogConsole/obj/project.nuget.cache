@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+Gbe5XSY1G/7+Ny8X3zjMfh+j/mxVJucEp7JweoPxBrQV22Jgn+me7CvVLmrlBiGJ8zZ40GuoFKu4/tYZ7mQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Trial\\PostgreSQL\\ApplicationLog\\ApplicationLogConsole\\ApplicationLogConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashangka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
